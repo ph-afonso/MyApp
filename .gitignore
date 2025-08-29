@@ -1,0 +1,33 @@
+.NET Core
+.DS_Store
+*.sln.DotSettings.user
+
+Mac
+.AppleDouble
+.LSOverride
+
+Folders
+[Bb]in/
+[Oo]bj/
+project.lock.json
+project.fragment.lock.json
+
+Rider
+.idea/
+
+User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+Build results
+[Dd]ebug/
+[Rr]elease/
+xunit.runner.json
+
+Visual Studio 2019 cache/options directory
+.vs/
+
+Environment files
+.env
